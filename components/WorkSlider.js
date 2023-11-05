@@ -5,22 +5,22 @@ const workSlider = {
       images: [
         {
           title: 'title',
-          path: '/todo-list image1.png',
+          path: "/todolistimage1.png",
           link: 'https://musical-pavlova-50cf08.netlify.app/',
         },
         {
           title: 'title',
-          path: '/todo-list image2.png',
+          path:  "/todolistimage2.png",
           link: 'https://musical-pavlova-50cf08.netlify.app/',
         },
         {
           title: 'title',
-          path: '/todo-list imag3.png',
+          path:  "/todolistimag3.png",
           link: 'https://musical-pavlova-50cf08.netlify.app/',
         },
         {
           title: 'title',
-          path: '/todo-list imag4.png',
+          path:  "/todolistimag4.png",
           link: 'https://musical-pavlova-50cf08.netlify.app/',
         },
 
@@ -30,22 +30,22 @@ const workSlider = {
       images: [
         {
           title: 'title',
-          path: '/quiz-app image 1.png',
+          path: "/quizappimage1.png",
           link: 'https://musical-meerkat-a32c16.netlify.app/',
         },
         {
           title: 'title',
-          path: '/quiz-app image 2.png',
+          path: "/quizappimage2.png",
           link: 'https://musical-meerkat-a32c16.netlify.app/',
         },
         {
           title: 'title',
-          path: '/quiz-app image 3.png',
+          path: "/quizappimage3.png",
           link: 'https://musical-meerkat-a32c16.netlify.app/',
         },
         {
           title: 'title',
-          path: '/quiz-app image 4.png',
+          path: "/quizappimage4.png",
           link: 'https://musical-meerkat-a32c16.netlify.app/'
         },
       ],
@@ -54,22 +54,22 @@ const workSlider = {
       images: [
         {
           title: 'title',
-          path: '/weather-app image 1.png',
+          path: "/weatherappimage1.png",
           link: 'https://serene-eclair-fb204e.netlify.app/',
         },
         {
           title: 'title',
-          path: '/weather-app image 2.png',
+          path: "/weatherappimage2.png",
           link: 'https://serene-eclair-fb204e.netlify.app/',
         },
         {
           title: 'title',
-          path: '/weather-app image 3.png',
+          path: "/weatherappimage3.png",
           link: 'https://serene-eclair-fb204e.netlify.app/',
         },
         {
           title: 'title',
-          path: '/weather-app image 4.png',
+          path: "/weatherappimage4.png",
           link: 'https://serene-eclair-fb204e.netlify.app/',
         },
       ],
